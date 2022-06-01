@@ -1,0 +1,4 @@
+1236, Gree, AC, 50000, 5
+1234, TV, LED TV, 10000, 1
+1235, LG, Fridge, 20000, 3
+1237, Walton, Iron, 500, 5
